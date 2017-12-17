@@ -1,0 +1,16 @@
+{
+  "name": "metalsmith-ipfs",
+  "version": "1.0.0",
+  "description": "plugin metalsmith ipfs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ipfs": "^0.26.0",
+    "js-ipfs": "0.0.301",
+    "lodash": "^4.17.4"
+  }
+}
