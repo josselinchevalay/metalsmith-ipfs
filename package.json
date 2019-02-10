@@ -9,10 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ipfs": "^0.26.0",
-    "js-ipfs": "0.0.301",
-    "level": "^4.0.0",
-    "levelup": "^3.1.1",
-    "lodash": "^4.17.4"
+    "ipfs": "0.34.4",
+    "lodash": "4.17.5"
   }
 }
